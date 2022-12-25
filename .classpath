@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="com/kerem/dist/client/|com/kerem/dist/server/" kind="src" path="TokenRing/src"/>
+	<classpathentry kind="src" path="TokenRing/src/com/kerem/dist/client"/>
+	<classpathentry kind="src" path="TokenRing/src/com/kerem/dist/server"/>
+	<classpathentry kind="src" path="TotallyOrderedMulticast/src"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/OneDrive/Desktop/HK1 Năm 4/Phân Tán/gson-2.8.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
